@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "long-perception-395509",
+  "private_key_id": "5e8bb71a616e08d45bea3dcc0646feca9b324e1e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCrLmqCLwwhfuD8\nAOcw4M/Dp4eQ7hqSk6TUK26rPLtD8KqB5Rwlqir7T1svm9GbuvWHipv2kfF1fK6m\nzNfwLEQ1pvwu8q/Ot2kijI4eXNQai8Zu1bowp5LXZ19jC6VQV8tkMq4HseLvyro3\nP95yZRUFTMXdYh8K795wuonvtqHSGgLdHbOUFJ3TPgmduwuDyhO4Gro2kILiPuvl\nNfQD71p1rYBVjI4uzZ20eLVaOYklIgHWj/5jy8L79D265aGt24OsOclSW910XJgl\nNGgBrklrzeunXf84QvBiL8YSS1XO4vZfJTf3bPJ5cmzZ9k8H5+2c1chlL36DKAgP\nTUY/S1j/AgMBAAECggEAA2cBYCPWDOOVtMyO/wGCf6c++/PcYvKjGw7fiaQqYLGF\nSHgPG1yKs1xvbPHSGuzk+aDl2q/Dg3J+XvuOHmYmCoVbWJ+J1dHL01wrbJHekV+0\npC1RU96j/e4LDxy2WEBDRaZdBfNUlfy+JZNgzrGqcLGG8t1PzdelemSEXorCiqEU\n9lj4ho2mJlvFckNq2KDj7sD+/jrKEHr+qnNjcCAccgMcEybv65cTkAtKfYa7BIc8\nrJKP1z0gNGFNvWD1eV0h2W55dqNt78c90mL4gvSFJirU+Aifv+NLOtZUx40hcfVf\nEDdihm3PlQNwAtCoBKU8Wm3ysanMiC1evMndgeYWqQKBgQDmoNJOaIcCzCGKIHGE\nDJKKBtKv+SfB5gduANdHoXiosCKtqLtPcm6AdkhC2T2Zj7+FolFG8sKdFuZinIGZ\nDRbnGSrcPb+SliuQO8TGKhkkxKN5fGocmHD+JMqewMm41NSpzzFdEsSgDX00KWe+\nWfwQ95Dc7dOczRKv6Aq1622VswKBgQC+A2R/UtMoLJXfvjVN6aYxIJwqTvuBBUjq\nNeE7APSY5/GhX4oWQ9IX88W+jry0Ghw+sDWEL7c5zVTRq0iMZZx6RHYV78M11nPZ\n4QaqdvZTkTKOOCkv/u6d0vZOr9GuItAc2OUgdkyAP2ubODBNhlRgdxCUSIb2ReJN\neGMXHW2hhQKBgQC7o7MX+jGGlCDhqd3Rywza4gw/Al9Xgdkfpe2BqR1rWcsNMZAc\nZoUDXbkTMn7M1sjDaDnqmI7AkqYlKyLCLIUqxy44/MBF+oo9EnPZqtzELny21gPb\neifMjpCQM1isWfUgp6OJD0EM24y3iMyQcdQE1fd12MXn+G2w0wEL3B1PwwKBgBGE\nio1ae3EmuyKHjK6ELfg1g3A7G+DHNfOxx/QCoIpAR/ySrE5lLkdbCA4LZsZL6fK1\nmBl5tLC1h25VFjkrXQPAsApRsnOSM9gQcObiVM9bgYevEc0E+ca/Hkoe13vwZbNj\nI6yce20Pa8JBqeJb0geasoKZNSgbRUPTJ3+IDQVpAoGBAIJF5ct6W0f/LNXMEHqc\ndZ6hdqMJXyuwpyLwPzV/2piefQ1o0h4cyKqt97oDBr/ZSnSntsYuxFnYg7YeVh38\n9KIxNGOvtcYncqVciRmfFpMH6wXpy7aQtW1dVWSKFMYTaU3qMpxnIHo+jRR1IkRD\nuEED4uESQGb5WpkrkH3KIphJ\n-----END PRIVATE KEY-----\n",
+  "client_email": "bucketaccess@long-perception-395509.iam.gserviceaccount.com",
+  "client_id": "105565382702960529914",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/bucketaccess%40long-perception-395509.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
